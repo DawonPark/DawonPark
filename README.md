@@ -27,7 +27,7 @@
 -   주택 검색 프로젝트
 -   비대면 반려동물 의료 서비스 프로젝트
 
-</p>
+
 ### :bookmark_tabs: Problem Solving
 
  <a href="https://github.com/DawonPark/Algorithm" title="algo">
