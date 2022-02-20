@@ -23,7 +23,7 @@
 
 ### :computer: Project
 
--   <a href="https://github.com/DawonPark/Capstone" title="capstone"> 욕설 탐지 딥러닝 프로젝트
+-   <a href="https://github.com/DawonPark/Capstone" title="capstone"> 욕설 탐지 딥러닝 프로젝트</
 -   주택 검색 프로젝트
 -   비대면 반려동물 의료 서비스 프로젝트
 
