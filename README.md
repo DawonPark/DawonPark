@@ -11,8 +11,7 @@
          <img align="center"  height = "150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DawonPark&repo=Problem_Solving_Jail&theme=buefy&show_icons=true&show_owner=true" alt="algostudy" />
 
 ### github status
-
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawonPark&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawonPark&show_icons=true&theme=radical)
 
 <!--
 **DawonPark/DawonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
