@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Vue.js-339933?style=flat-square&logo=vue.js&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MUI-1572B6?style=flat-square&logo=MUI&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/React-Native-E34F26?style=flat-square&logo=React-Native&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/ReactNative-E34F26?style=flat-square&logo=ReactNative&logoColor=white"/></a> &nbsp
 
 ### :punch: Activity
 
