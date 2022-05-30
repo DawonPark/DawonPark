@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/React-1572B6?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Vue.js-339933?style=flat-square&logo=vue.js&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MUI-1572B6?style=flat-square&logo=MUI&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=&logoColor=white"/></a> &nbsp
 
 ### :punch: Activity
 
