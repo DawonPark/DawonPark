@@ -25,10 +25,12 @@
 
 ### :computer: Project
 
--   <a href="https://github.com/DawonPark/Capstone" title="capstone"> 욕설 탐지 딥러닝 프로젝트</a>
--   <a href="https://github.com/DawonPark/goozip" title="goozip">  주택 검색 프로젝트 </a>
 -   <a href="https://github.com/DawonPark/pettodoctor" title="pettodoctor">비대면 반려동물 의료 서비스 프로젝트 </a>
 -   <a href="https://github.com/DawonPark/Barguni" title="barguni">유통기한 관리 앱 바구니 프로젝트 </a>
+-   <a href="https://github.com/DawonPark/Posesmart" title="Posesmart">  거북목, 눈 깜빡임 감지 프로젝트 </a>
+-   <a href="https://github.com/DawonPark/goozip" title="goozip">  주택 검색 프로젝트 </a>
+-   <a href="https://github.com/DawonPark/Capstone" title="capstone"> 욕설 탐지 딥러닝 프로젝트</a>
+
 
 
 ### :bookmark_tabs: Problem Solving
