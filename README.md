@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/MUI-1572B6?style=flat-square&logo=MUI&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React-Native-E34F26?style=flat-square&logo=React-Native&logoColor=white"/></a> &nbsp
+
 ### :punch: Activity
 
 -   소프트웨어 공학과 전공
