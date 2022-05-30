@@ -21,12 +21,14 @@
     -   1학기 성적 우수 수상
 -   삼성 청년 소프트웨어 아카데미 6기 2학기 진행중(2022.01 ~)
     -   공통프로젝트 우수프로젝트 선정
+    -   자율프로젝트 우수프로젝트 선정
 
 ### :computer: Project
 
 -   <a href="https://github.com/DawonPark/Capstone" title="capstone"> 욕설 탐지 딥러닝 프로젝트</a>
 -   <a href="https://github.com/DawonPark/goozip" title="goozip">  주택 검색 프로젝트 </a>
 -   <a href="https://github.com/DawonPark/pettodoctor" title="pettodoctor">비대면 반려동물 의료 서비스 프로젝트 </a>
+-   <a href="https://github.com/DawonPark/Barguni" title="barguni">유통기한 관리 앱 바구니 프로젝트 </a>
 
 
 ### :bookmark_tabs: Problem Solving
